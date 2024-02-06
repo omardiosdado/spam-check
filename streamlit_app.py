@@ -52,11 +52,11 @@ def check_for_spam(text, spam_data):
     return found_spam_phrases
 
 # Streamlit user interface
-st.title(':nesting_dolls: SPAM WORD CHECKER EN ESPAÑOL')
+st.title(':nesting_dolls: Comprobador de palabras SPAM')
 st.caption(':turtle: V1.01 by Polímata.AI')
-email_text = st.text_area("Enter Your Email Below")
+email_text = st.text_area("Ingrese su correo electrónico a continuación")
 
-if st.button('Check for Spam Words'):
+if st.button('Revisar palabras SPAM'):
     spam_results = check_for_spam(email_text, spam_data)
     highlighted_text = email_text
     total_score = 0  # Initialize total score
