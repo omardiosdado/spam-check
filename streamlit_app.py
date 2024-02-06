@@ -52,8 +52,8 @@ def check_for_spam(text, spam_data):
     return found_spam_phrases
 
 # Streamlit user interface
-st.title(':nesting_dolls: Procesador de Leads')
-st.caption(':turtle: V2.01 by Polímata.AI')
+st.title(':nesting_dolls: SPAM WORD CHECKER EN ESPAÑOL')
+st.caption(':turtle: V1.01 by Polímata.AI')
 email_text = st.text_area("Enter Your Email Below")
 
 if st.button('Check for Spam Words'):
