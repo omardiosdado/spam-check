@@ -1,0 +1,742 @@
+﻿frase,score,razón
+acceso,2,urgencia
+acceso ahora,4,urgencia
+acto,3,urgencia
+actuar inmediatamente,7,urgencia
+actuar ahora,8,urgencia
+acción,3,urgencia
+acción requerida,7,urgencia
+aplicar aquí,2,urgencia
+aplica ya,4,urgencia
+aplica online,2,urgencia
+convertirse en miembro,2,urgencia
+Antes de que sea demasiado tarde,8,urgencia
+Ser miembro,2,urgencia
+comprar,2,urgencia
+comprar directo,2,urgencia
+comprar ahora,5,urgencia
+comprar hoy,5,urgencia
+llamar,2,urgencia
+Llamada gratis,3,urgencia
+llámame,2,urgencia
+llama ahora,5,urgencia
+¿Podemos tener un minuto de tu tiempo?,5,urgencia
+cancelar ahora,5,urgencia
+Cancelación requerida,7,urgencia
+reclama ahora,5,urgencia
+hacer clic,2,urgencia
+haga click abajo,4,urgencia
+haga clic aquí,2,urgencia
+Haga clic en mí para descargar,4,urgencia
+Haga clic ahora,4,urgencia
+Haga clic en este enlace,4,urgencia
+Haga clic para obtener,4,urgencia
+Haga clic para eliminar,4,urgencia
+Contáctenos de inmediato,6,urgencia
+trato terminando pronto,7,urgencia
+hazlo ahora,7,urgencia
+hazlo hoy,6,urgencia
+No elimine,2,urgencia
+No dudes,3,urgencia
+No pierdas el tiempo,4,urgencia
+trato exclusivo,6,urgencia
+expirar,4,urgencia
+vence hoy,6,urgencia
+llamada final,8,urgencia
+Para acceso instantáneo,5,urgencia
+Por sólo,3,urgencia
+para ti,2,urgencia
+alejarlo,4,urgencia
+consiguelo ahora,6,urgencia
+obtener ahora,5,urgencia
+recibir el pago,2,urgencia
+Empezar,2,urgencia
+empieza ahora,4,urgencia
+gran oferta,4,urgencia
+apresúrate,5,urgencia
+inmediatamente,4,urgencia
+Información que solicitó,3,urgencia
+Información que solicitó,3,urgencia
+instante,4,urgencia
+tiempo limitado,5,urgencia
+Solo nuevos clientes,7,urgencia
+ahora,2,urgencia
+solo ahora,5,urgencia
+La oferta expira,7,urgencia
+una vez en la vida,8,urgencia
+solo,2,urgencia
+ordenar ahora,5,urgencia
+ordenar hoy,5,urgencia
+por favor lee,2,urgencia
+comprar ahora,5,urgencia
+Regístrate gratis,2,urgencia
+Regístrese gratis hoy,4,urgencia
+Los suministros son limitados,6,urgencia
+tomar acción,4,urgencia
+tomar medidas ahora,6,urgencia
+Esto no durará,6,urgencia
+tiempo limitado,5,urgencia
+hoy,3,urgencia
+muy urgente,7,urgencia
+ensayo,4,urgencia
+urgente,7,urgencia
+¿Que estas esperando?,5,urgencia
+mientras duren las reservas,6,urgencia
+Eres un ganador,6,urgencia
+0 hacia abajo,2,dudoso
+4U,4,dudoso
+todo natural,3,dudoso
+todo nuevo,3,dudoso
+todo natural,3,dudoso
+todo nuevo,3,dudoso
+prestación,2,dudoso
+como se ve en,3,dudoso
+Como se ve en Oprah,5,dudoso
+sin costo,3,dudoso
+Extracción de correo electrónico automático,6,dudoso
+evitar,4,dudoso
+oferta beneficiosa,6,dudoso
+beneficiario,2,dudoso
+buscapersonas,4,dudoso
+correo electrónico a granel,8,dudoso
+compra de juicios,9,dudoso
+compra de juicios,9,dudoso
+convertidor de cable,4,dudoso
+Llamar a los acreedores,6,dudoso
+¿puedes ayudarnos?,5,dudoso
+Cancelar en cualquier momento,2,dudoso
+no se puede combinar,3,dudoso
+celebridad,4,dudoso
+estafa de cáncer de teléfono celular,9,dudoso
+certificado,3,dudoso
+oportunidad,4,dudoso
+barato,4,dudoso
+medicamentos baratos,9,dudoso
+cialis,10,dudoso
+reclamos,5,dudoso
+afirma no vender nada,6,dudoso
+reclamos estar de acuerdo con alguna ley de spam,7,dudoso
+reclamos ser legales,2,dudoso
+autorización,3,dudoso
+recolectar,1,dudoso
+recolectar manutención de los hijos,7,dudoso
+comparar,1,dudoso
+Comparar ahora,5,dudoso
+Comparar en línea,4,dudoso
+tasas de comparación,4,dudoso
+Compite por su negocio,5,dudoso
+confidencialidad,3,dudoso
+Felicidades,1,dudoso
+Consolidar deuda y crédito,6,dudoso
+Consolidar su deuda,5,dudoso
+copia con precisión,2,dudoso
+Copiar DVD,6,dudoso
+COVID-19,5,dudoso
+cura,5,dudoso
+cura la calvicie,9,dudoso
+diagnóstico,4,dudoso
+dieta,4,dudoso
+desenterrar la tierra en los amigos,9,dudoso
+correo electrónico directo,4,dudoso
+marketing directo,4,dudoso
+eliminar la deuda,7,dudoso
+Explota tu negocio,8,dudoso
+entrega rápida de viagra,9,dudoso
+finanzas,3,dudoso
+financiero,3,dudoso
+asesoría financiera,4,dudoso
+independencia financiera,6,dudoso
+financieramente independiente,6,dudoso
+Solo para nuevos clientes,4,dudoso
+juicio hipotecario,7,dudoso
+gratis,7,dudoso
+acceso libre,6,dudoso
+bono gratuito,6,dudoso
+teléfono celular gratis,7,dudoso
+regalo gratis,7,dudoso
+dinero de subvención gratis,8,dudoso
+información gratuita,6,dudoso
+instalación gratuita,6,dudoso
+instantáneo gratuito,6,dudoso
+iPhone gratis,7,dudoso
+computadora portátil gratis,7,dudoso
+Leades gratuitos,6,dudoso
+MacBook gratis,7,dudoso
+oferta gratis,6,dudoso
+correo prioritario gratuito,6,dudoso
+muestra gratis,6,dudoso
+sitio web gratuito,6,dudoso
+¡gratis!,7,dudoso
+tarjeta de regalo,5,dudoso
+certificado de regalo,5,dudoso
+regalo incluido,5,dudoso
+regalarlo,6,dudoso
+regalar,6,dudoso
+regalarlo,6,dudoso
+oro,4,dudoso
+excelente,1,dudoso
+Gran oferta,3,dudoso
+Saludos del día,3,dudoso
+hormona del crecimiento,8,dudoso
+garantizar,5,dudoso
+depósito garantizado,6,dudoso
+Ingresos garantizados,6,dudoso
+pago garantizado,6,dudoso
+¿Te han rechazado?,6,dudoso
+Hola (sin nombre incluido),3,dudoso
+Cargos escondidos,6,dudoso
+costos ocultos,6,dudoso
+cargos ocultos,6,dudoso
+puntuación más alta,3,dudoso
+negocio desde casa,6,dudoso
+hipoteca de la casa,5,dudoso
+humano,1,dudoso
+hormona del crecimiento humano,8,dudoso
+Si solo fuera así de facil,5,dudoso
+información importante,4,dudoso
+notificación importante,4,dudoso
+pérdida de peso instantánea,8,dudoso
+Seguro perder peso,7,dudoso
+mercadeo por Internet,5,dudoso
+decisión de inversión,4,dudoso
+factura,3,dudoso
+Es efectivo,4,dudoso
+alerta de Trabajo,4,dudoso
+basura,5,dudoso
+lambo,9,dudoso
+impresora laser,5,dudoso
+último día,4,dudoso
+legal,2,dudoso
+aviso Legal,4,dudoso
+vida,4,dudoso
+seguro de vida,5,dudoso
+acceso de por vida,5,dudoso
+trato de por vida,5,dudoso
+limitado,4,dudoso
+cantidad limitada,5,dudoso
+número limitado,5,dudoso
+oferta limitada,5,dudoso
+recursos limitados,4,dudoso
+Oferta por tiempo limitado,4,dudoso
+por tiempo limitado,3,dudoso
+préstamo,3,dudoso
+Número de teléfono de larga distancia,2,dudoso
+oferta telefónica de larga distancia,3,dudoso
+perder peso,6,dudoso
+perder peso rápido,8,dudoso
+perder peso spam,10,dudoso
+lotería,7,dudoso
+tasa de interés más baja,4,dudoso
+Tasas de interés más bajas,4,dudoso
+pago mensual más bajo,4,dudoso
+Baje su tasa de hipoteca,6,dudoso
+Tarifas de seguro más bajas,6,dudoso
+tasa de interés más baja,6,dudoso
+la tasa más baja,3,dudoso
+Tasas más bajas,3,dudoso
+lujo,2,dudoso
+carro de lujo,2,dudoso
+Formulario de correo en orden,2,dudoso
+Marque esto como no basura,3,dudoso
+correo electrónico masivo,7,dudoso
+médico,3,dudoso
+medicamento,3,dudoso
+conocer chicas,8,dudoso
+Encuéntrame,6,dudoso
+conocer solteros,8,dudoso
+conocer mujeres,8,dudoso
+miembro,2,dudoso
+material de los miembros,2,dudoso
+El mensaje contiene descargo de responsabilidad,1,dudoso
+Mensaje de,1,dudoso
+millonario,5,dudoso
+millones,3,dudoso
+MLM,7,dudoso
+comercialización de niveles múltiples,8,dudoso
+nombre,1,dudoso
+cerca de usted,4,dudoso
+nunca antes,2,dudoso
+nuevo,2,dudoso
+Nuevas extensiones de dominio,4,dudoso
+nigeriano,9,dudoso
+Sin restricciones de edad,4,dudoso
+sin captura,2,dudoso
+Sin formularios de reclamo,2,dudoso
+gratis,2,dudoso
+Sin verificación de crédito,3,dudoso
+Sin experiencia crediticia,3,dudoso
+No se requiere depósito,3,dudoso
+Sin decepción,2,dudoso
+no experiencia,3,dudoso
+Sin cargos,2,dudoso
+Sin truco,2,dudoso
+No escondido,2,dudoso
+sin cuotas escondidas,2,dudoso
+Sin costos ocultos,2,dudoso
+no hay interés,2,dudoso
+Sin intereses,2,dudoso
+sin inventario,2,dudoso
+Sin inversión,2,dudoso
+No se requiere inversión,3,dudoso
+Sin exámenes médicos,3,dudoso
+No Middleman,2,dudoso
+Sin obligación,2,dudoso
+No se requiere pago,2,dudoso
+no se requiere compra,2,dudoso
+no se hicieron preguntas,2,dudoso
+Sin ventas,2,dudoso
+Sin condiciones,2,dudoso
+Sin obligación,2,dudoso
+cuenta bancaria nominada,3,dudoso
+sin intención,1,dudoso
+no basura,1,dudoso
+no estafa,1,dudoso
+no spam,1,dudoso
+no spam,1,dudoso
+numero 1,2,dudoso
+obligación,2,dudoso
+apagado,2,dudoso
+fuera de todo,2,dudoso
+fuera de la costa,3,dudoso
+Oferta extendida,2,dudoso
+oferta,2,dudoso
+costa afuera,3,dudoso
+cien por ciento,2,dudoso
+una vez,2,dudoso
+Oportunidad de Biz en línea,6,dudoso
+Grado en línea,5,dudoso
+ingresos en línea,6,dudoso
+trabajo en línea,5,dudoso
+abierto,1,dudoso
+oportunidad,3,dudoso
+optar en,2,dudoso
+orden,2,dudoso
+pedido enviado por,2,dudoso
+estado de pedido,2,dudoso
+pedidos enviados por,2,dudoso
+Pedidos enviados por el comprador,8,dudoso
+valor excepcional,2,dudoso
+valores excepcionales,2,dudoso
+contraseña,5,dudoso
+contraseñas,7,dudoso
+paga tus cuentas,2,dudoso
+por año,3,dudoso
+por mes,2,dudoso
+perfecto,2,dudoso
+actuación,2,dudoso
+teléfono,2,dudoso
+por favor,1,dudoso
+Por favor abre,4,dudoso
+ahora,2,dudoso
+Firma de forma de impresión,4,dudoso
+Imprimir desde la firma,4,dudoso
+Imprimir y fax,4,dudoso
+correo urgente,4,dudoso
+Fondos de propiedad privada,3,dudoso
+premio,6,dudoso
+Problema con el envío,5,dudoso
+Problema con su pedido,5,dudoso
+producido y enviado,3,dudoso
+ganancia,2,dudoso
+te lo prometo,7,dudoso
+compra,2,dudoso
+ganancias puras,5,dudoso
+citas,2,dudoso
+tasa,2,dudoso
+Cosa real,3,dudoso
+reembolso,6,dudoso
+reducir la deuda,7,dudoso
+casa de refinanciamiento,7,dudoso
+casa refinanciada,7,dudoso
+reembolso,6,dudoso
+acerca de,2,dudoso
+instrucciones de eliminación,6,dudoso
+elimina,8,dudoso
+elimina las arrugas,8,dudoso
+RELICACIONES,10,dudoso
+pedido,2,dudoso
+Solicitud ahora,3,dudoso
+Solicitar hoy,3,dudoso
+Requiere inversión inicial,8,dudoso
+Requiere inversión,8,dudoso
+invierte el envejecimiento,10,dudoso
+Sin riesgo,5,dudoso
+rolex,10,dudoso
+alrededor del mundo,2,dudoso
+aviso de salvaguardia,4,dudoso
+venta,2,dudoso
+ventas,2,dudoso
+ahorrar,2,dudoso
+salvar,3,dudoso
+ahorrar un gran mes,3,dudoso
+ahorrar dinero,2,dudoso
+guardar ahora,2,dudoso
+anotar con chicas,10,dudoso
+buscar optimización del motor,4,dudoso
+Sección 301,4,dudoso
+ver por ti mismo,3,dudoso
+visto en,3,dudoso
+grave,2,dudoso
+caso grave,5,dudoso
+oferta seria,5,dudoso
+solo serio,5,dudoso
+sexo,10,dudoso
+Compra ahora,2,dudoso
+comprador,4,dudoso
+compra compulsiva,3,dudoso
+ronquidos,5,dudoso
+Número de seguro social,8,dudoso
+pronto,2,dudoso
+correo basura,10,dudoso
+Spam gratis,2,dudoso
+trato especial,4,dudoso
+descuento especial,4,dudoso
+especial para usted,4,dudoso
+oferta especial,4,dudoso
+acero inoxidable,5,dudoso
+alerta de stock,6,dudoso
+Declaración de descenso de existencias,6,dudoso
+selección de valores,6,dudoso
+acciones/alerta de stock/alerta de stock,6,dudoso
+Deja de llamarme,6,dudoso
+Deja de enviarme un correo electrónico,6,dudoso
+detener una mayor distribución,7,dudoso
+dejar de roncar,8,dudoso
+Compra fuerte,6,dudoso
+Cosas en venta,2,dudoso
+sujeto a,2,dudoso
+Sujeto a efectivo,7,dudoso
+suscribir,2,dudoso
+Suscríbete gratis,3,dudoso
+Suscríbase ahora,3,dudoso
+super promoción,4,dudoso
+suministros,2,dudoso
+Este es un anuncio,5,dudoso
+términos,2,dudoso
+las mejores tarifas,3,dudoso
+la siguiente forma,4,dudoso
+Hacen un reclamo o afirmaciones de que están de acuerdo con la ley de spam.,7,dudoso
+Intentan mantener su dinero sin reembolso,9,dudoso
+Solo lo están regalando,7,dudoso
+esto no es basura,2,dudoso
+esto no es spam,2,dudoso
+esto no es una estafa,2,dudoso
+multipropiedad,6,dudoso
+Ofertas de tiempo compartido,7,dudoso
+tráfico,3,dudoso
+prueba ilimitada,3,dudoso
+a nosotros. dólares,2,dudoso
+no revelado,6,dudoso
+destinatario no revelado,6,dudoso
+diplomas universitarios,8,dudoso
+crédito no garantizado,6,dudoso
+deuda no garantizada,6,dudoso
+no solicitado,9,dudoso
+cancelar la suscripción,2,dudoso
+respuesta urgente,7,dudoso
+euros,2,dudoso
+vacaciones,6,dudoso
+Ofertas de vacaciones,7,dudoso
+valium,10,dudoso
+viagra,10,dudoso
+vicodina,10,dudoso
+VIP,6,dudoso
+Visite nuestro sitio web,4,dudoso
+Quiere tarjeta de crédito,8,dudoso
+Garantía expiró,6,dudoso
+Odiamos el spam,2,dudoso
+Honramos a todos,3,dudoso
+Visitantes del sitio web,4,dudoso
+escape de fín de semana,5,dudoso
+pérdida de peso,7,dudoso
+¿Qué te mantiene?,5,dudoso
+Mientras estén disponibles,4,dudoso
+mientras está en stock,4,dudoso
+hasta fin de existencias,5,dudoso
+mientras duermes,6,dudoso
+¿Quién gana realmente?,6,dudoso
+ganar,3,dudoso
+ganador,7,dudoso
+victorioso,4,dudoso
+ganado,5,dudoso
+xanax,10,dudoso
+xxx,10,dudoso
+te han seleccionado,7,dudoso
+Has sido seleccionado,7,dudoso
+tu oportunidad,7,dudoso
+tu estado,4,dudoso
+Cero Chance,4,dudoso
+cero por ciento,4,dudoso
+Riesgo cero,4,dudoso
+#1,3,promisión
+De %,3,promisión
+% gratis,4,promisión
+% satisfecho,3,promisión
+0%,3,promisión
+0% de riesgo,4,promisión
+100%,3,promisión
+100% gratis,6,promisión
+100% más,5,promisión
+100% de descuento,5,promisión
+100% satisfecho,5,promisión
+99.90%,3,promisión
+99%,3,promisión
+Acceso gratis,4,promisión
+ingresos adicionales,5,promisión
+asombrado,3,promisión
+asombroso,3,promisión
+Oferta increíble,8,promisión
+cosas increíbles,7,promisión
+estar asombrado,6,promisión
+quedar asombrado,4,promisión
+sé tu propio jefe,7,promisión
+créeme,6,promisión
+mejor ganga,7,promisión
+mejor trato,6,promisión
+mejor oferta,6,promisión
+mejor precio,6,promisión
+las mejores tarifas,6,promisión
+dinerales,7,promisión
+prima,5,promisión
+jefe,5,promisión
+No puedo vivir sin,6,promisión
+Cancelar,3,promisión
+consolidar deuda,6,promisión
+Duplique su efectivo,6,promisión
+Duplique sus ingresos,6,promisión
+Reducido drásticamente,5,promisión
+Ganar efectivo extra,6,promisión
+ganar dinero,5,promisión
+Eliminar el mal crédito,6,promisión
+Espere ganar,4,promisión
+extra,2,promisión
+dinero extra,3,promisión
+ingresos extra,3,promisión
+fantástico,3,promisión
+trato fantástico,4,promisión
+Oferta fantástica,4,promisión
+rápido,5,promisión
+Dinero fácil,6,promisión
+libertad financiera,5,promisión
+consulta gratis,3,promisión
+alojamiento gratuito,3,promisión
+información gratuita,4,promisión
+inversión libre,6,promisión
+membresía gratis,6,promisión
+dinero gratis,10,promisión
+Vista previa gratuita,4,promisión
+Cotización Gratis,7,promisión
+prueba gratis,5,promisión
+reembolso completo,2,promisión
+salir de la deuda,6,promisión
+donar,3,promisión
+garantizado,7,promisión
+Incremento de ventas,3,promisión
+aumentar el tráfico,3,promisión
+trato increíble,5,promisión
+unirse a miles de millones,3,promisión
+unirse a millones,3,promisión
+Únete a millones de estadounidenses,3,promisión
+unirse a miles,3,promisión
+tasas más bajas,3,promisión
+el precio más bajo,3,promisión
+ganar dinero,5,promisión
+millón,5,promisión
+Millón de dólares,6,promisión
+milagro,7,promisión
+devolución de dinero,4,promisión
+Oferta de prueba de mes,4,promisión
+Más tráfico de Internet,4,promisión
+número uno,4,promisión
+cien por ciento garantizado,6,promisión
+una vez,3,promisión
+centavos al día,3,promisión
+ganancias potenciales,4,promisión
+premio,5,promisión
+promesa,5,promisión
+ganancia pura,4,promisión
+Sin riesgo,6,promisión
+satisfacción garantizada,4,promisión
+ahorrar mucho dinero,4,promisión
+guardar hasta,3,promisión
+promoción especial,4,promisión
+el mejor,3,promisión
+miles,3,promisión
+oferta inmejorable,5,promisión
+increíble,6,promisión
+ilimitado,3,promisión
+juicio ilimitado,4,promisión
+maravilloso,3,promisión
+no creerás tus ojos,5,promisión
+$$$,6,dinero
+50% rebajado,5,dinero
+algunos bob,2,dinero
+aceptar tarjetas de efectivo,3,dinero
+aceptar tarjetas de crédito,3,dinero
+asequible,2,dinero
+oferta asequible,2,dinero
+Evite la quiebra,4,dinero
+mal credito,5,dinero
+banco,2,dinero
+bancarrota,6,dinero
+negociar,4,dinero
+facturación,2,dinero
+Dirección de Envio,2,dinero
+mil millones,6,dinero
+billon de dolares,7,dinero
+multimillonario,4,dinero
+Tarjeta aceptada,2,dinero
+Tarjetas aceptadas,2,dinero
+dinero,3,dinero
+bono de efectivo,3,dinero
+retirarse,3,dinero
+reembolso,3,dinero
+Cashcashcash,6,dinero
+casino,5,dinero
+centavos en el dólar,4,dinero
+controlar,2,dinero
+Un cheque o giro,4,dinero
+Reclamar su descuento,3,dinero
+costo,2,dinero
+costos,2,dinero
+crédito,4,dinero
+agencias de crédito,5,dinero
+tarjeta de crédito,5,dinero
+ofertas de tarjeta de crédito,5,dinero
+crédito o débito,4,dinero
+trato,2,dinero
+deuda,5,dinero
+descuento,3,dinero
+dólares,3,dinero
+duplicar tu,4,dinero
+Duplique tu riqueza,4,dinero
+ganar,4,dinero
+Ganar $,4,dinero
+ganar dinero,4,dinero
+Ganar ingresos adicionales,4,dinero
+Ganar desde casa,4,dinero
+Ganar mensualmente,4,dinero
+ganar por mes,4,dinero
+Ganar por semana,4,dinero
+Gana tu título,4,dinero
+ingresos fáciles,3,dinero
+Términos fáciles,3,dinero
+gratis,3,dinero
+gratis,3,dinero
+por solo $,3,dinero
+por solo $ (cantidad),3,dinero
+por solo $ xxx,3,dinero
+obtener dinero,4,dinero
+obtener su dinero,4,dinero
+activos ocultos,6,dinero
+gran descuento,4,dinero
+ingreso,4,dinero
+Ingresos desde casa,4,dinero
+aumentar los ingresos,4,dinero
+aumentar las ventas/tráfico,4,dinero
+Aumenta tus posibilidades,4,dinero
+inversión inicial,4,dinero
+ganancias instantáneas,4,dinero
+ingreso instantáneo,4,dinero
+seguro,4,dinero
+inversión,4,dinero
+Consejo de inversión,4,dinero
+toda la vida,3,dinero
+préstamos,4,dinero
+hacer $,4,dinero
+dinero,3,dinero
+haciendo dinero,4,dinero
+Garantía de devolución del dinero,4,dinero
+haciendo dinero,4,dinero
+mensualidad,2,dinero
+hipoteca,5,dinero
+las tasas hipotecarias,5,dinero
+oferta,2,dinero
+cien por ciento gratis,3,dinero
+Solo $ $,3,dinero
+precio,2,dinero
+protección de precios,3,dinero
+precios,2,dinero
+ganancias,4,dinero
+cita,2,dinero
+tarifa,2,dinero
+refinanciar,5,dinero
+ahorrar $,3,dinero
+efectivo grave,4,dinero
+sujeto a crédito,4,dinero
+dólares estadounidenses,2,dinero
+¿Por qué pagar más?,3,dinero
+Tu ingreso,4,dinero
+aceptación,2,antinatural
+respectivamente,1,antinatural
+marketing basado en cuentas,3,antinatural
+cuentas,2,antinatural
+direcciones,2,antinatural
+direcciones en CD,5,antinatural
+bebida,1,antinatural
+confidencialidad en todas las órdenes,2,antinatural
+confidencialmente en todos los pedidos,2,antinatural
+marketing de contenidos,3,antinatural
+estimado,2,antinatural
+"estimado,",4,antinatural
+publicidad digital,3,antinatural
+latente,2,antinatural
+Extractor de correo electrónico,8,antinatural
+Cosecha de correo electrónico,8,antinatural
+correo de propaganda,7,antinatural
+extraer correo electrónico,8,antinatural
+forma,2,antinatural
+libertad,2,antinatural
+amigo,2,antinatural
+aquí,1,antinatural
+oculto,3,antinatural
+hogar,1,antinatural
+basado en casa,2,antinatural
+empleo en el hogar,2,antinatural
+basado en casa,2,antinatural
+negocio desde casa,2,antinatural
+negocio desde casa,2,antinatural
+Si ya no desea recibir,8,antinatural
+Información importante sobre,6,antinatural
+de acuerdo con las leyes,3,antinatural
+Aumente sus ventas,5,antinatural
+mercado de Internet,3,antinatural
+dejar,2,antinatural
+perder,3,antinatural
+mantenido,2,antinatural
+marketing,3,antinatural
+solución de marketing,3,antinatural
+soluciones de marketing,3,antinatural
+medio,2,antinatural
+el mensaje contiene,6,antinatural
+comercialización de niveles múltiples,8,antinatural
+nunca,2,antinatural
+por correo único,7,antinatural
+Mercadeo en línea,3,antinatural
+farmacia en línea,9,antinatural
+optar en,5,antinatural
+por día,2,antinatural
+por semana,2,antinatural
+pre aprobado,5,antinatural
+problema,2,antinatural
+eliminación,4,antinatural
+eliminar,4,antinatural
+se reserva el derecho,3,antinatural
+reversión,2,antinatural
+muestra,2,antinatural
+satisfacción,2,antinatural
+puntaje,2,antinatural
+buscador,2,antinatural
+listados de motores de búsqueda,3,antinatural
+los motores de búsqueda,2,antinatural
+enviado de cumplimiento,3,antinatural
+solución,2,antinatural
+detener,2,antinatural
+éxito,2,antinatural
+adolescente,1,antinatural
+Términos y condiciones,3,antinatural
+garantía,2,antinatural
+tráfico web,3,antinatural
+esposa,1,antinatural
+trabajar en casa,3,antinatural
+trabajar desde casa,3,antinatural
